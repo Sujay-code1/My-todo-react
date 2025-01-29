@@ -8,4 +8,25 @@ This is a simple To-Do List application built using React and Vite. The app allo
 - **Edit tasks**: Users can edit the title of a task.
 - **Delete tasks**: Users can remove tasks from the list.
 - **Mark tasks as completed**: Tasks can be marked as completed by the user.
-  
+
+  Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/your-username/todo-app.git
+
+Navigate to the project directory:
+
+cd todo-app
+
+Install dependencies:
+
+npm install
+
+Start the development server:
+
+npm run dev
+
+Open http://localhost:5173/ in your browser.
+
+
